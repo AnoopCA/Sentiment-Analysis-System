@@ -1,2 +1,6 @@
 google_auth_oauthlib
 google_api_python_client
+nltk
+vaderSentiment
+plotly
+streamlit
